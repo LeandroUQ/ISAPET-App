@@ -1,0 +1,10 @@
+# Dependencias de Node (Frontend)
+node_modules/
+
+# Entornos y temporales de Python (Backend)
+venv/
+env/
+__pycache__/
+
+# Base de datos (opcional, para que tu compañero tenga la suya en limpio)
+*.db
